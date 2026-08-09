@@ -41,7 +41,7 @@ dashboard/visualization design in Power BI.
   - **Overview** — KPI cards (hours played, sessions, avg session length,
     skip rate), monthly listening trend, weekday × month heatmap matrix,
     listening-by-weekday chart, year slicer
-  - **Artists & Tracks** — top 10 artists (bar + treemap), top 10 songs,
+  - **Artists & Tracks** — top 08 artists (bar + treemap), top 08 songs,
     distinct-artists-per-year trend (listening diversity over time)
 
 ## Key Insights
