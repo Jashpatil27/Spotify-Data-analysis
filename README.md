@@ -45,6 +45,8 @@ dashboard/visualization design in Power BI.
     listening-by-weekday chart, year slicer
   - **Artists & Tracks** — top 08 artists (bar + treemap), top 08 songs,
     distinct-artists-per-year trend (listening diversity over time)
+<img width="1176" height="657" alt="spotify_main" src="https://github.com/user-attachments/assets/e7ea37b0-3c37-4980-9743-34a142dc91ca" />
+<img width="1180" height="657" alt="spotify_main2" src="https://github.com/user-attachments/assets/66cc818c-843b-45fd-9d7f-a51c66268a52" />
 
 ## Key Insights
 - **1,586 total hours** of listening logged across 6 years (2020–2026)
