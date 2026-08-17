@@ -30,6 +30,8 @@ dashboard/visualization design in Power BI.
   based on a 20-minute inactivity gap
 - **Skip-rate analysis** using conditional aggregation (`COUNT(CASE WHEN...)`)
   with a minimum-sample-size guard via `HAVING`
+  <img width="1536" height="1024" alt="ChatGPT Image Aug 17, 2026, 10_48_44 PM" src="https://github.com/user-attachments/assets/b1790051-e2f8-4564-9206-3ae30bbe39aa" />
+
 
 ### 3. Dashboard (Power BI)
 - Star-schema model: fact table (`plays`) + calculated Date dimension table
