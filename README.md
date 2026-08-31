@@ -61,11 +61,3 @@ dashboard/visualization design in Power BI.
   through 2021–22 (peak ~585 artists), narrowing toward familiar
   favorites in 2023–24 (low of ~310), then a renewed discovery phase
   in 2025 (peak ~660)
-  
-## Possible Next Steps
-- Rebuild the pipeline directly from raw JSON to resolve the timezone
-  double-conversion issue and correct the hour-of-day analysis
-- Add a third dashboard page for listening-behavior patterns (hour-of-day,
-  skip rate by artist)
-- Explore genre/mood analysis if Spotify API audio-features access is
-  available
